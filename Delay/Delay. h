@@ -1,0 +1,6 @@
+//delay.h
+
+#include"types.h"
+void delayus(u32);
+void delayms(u32);
+void delays(u32);
